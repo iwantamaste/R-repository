@@ -1,4 +1,3 @@
-print("this is the first script made for testing")
+print("first script")
 
-
-print("this file i think will be saved in R-repository")
+print("need to commit")
